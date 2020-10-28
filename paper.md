@@ -17,3 +17,7 @@ Jones et al (1998) conducted several studies in this region,
 but continental-scale measurements have not previously been made.
 A large uncertainty in modelling BBOA is the extent to which
 measurements in the literature can be applied at a regional scale.
+
+simulations
+we simulate the evolution of particle sizes as thet are transported
+away from the source region

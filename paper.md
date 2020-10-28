@@ -1,5 +1,5 @@
 # Title 
- evacuation
+ Aircraft measurements of biomass burning aerosols over West Africa
 
 # Author
  ho trong khoat

@@ -6,8 +6,14 @@
 >>>>>>> simulations
 
 # Author
- John Smith
+<<<<<<< HEAD
+
  Ho trong khoat
+ John Smith
+=======
+ Ho trong khoat, University of Manchester
+ John Smith, University of Manchester
+>>>>>>> 720abf803457e4b2392ed304b8ab762873667200
 
 # Introduction 
 I am master of engineering. I am working at R&D department in a small company related to Fire alarm systems

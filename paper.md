@@ -27,3 +27,8 @@ we simulate the evolution of particle sizes as thet are transported
 away from the source region
 ----------------------------
 Test function
+
+----------------------------
+#Result
+The simulations indicate that coagulation is the dominant growth
+mechanism for these particles.
